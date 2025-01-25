@@ -1,4 +1,11 @@
-// MODULE - 1
+// MODULE: 1 (C Language - Introduction)
+
+// Display This Information using printf
+// a. Your Name
+// b. Your Birth date
+// c. Your Age
+// d. Your Address
+
 
 #include<stdio.h>
 
