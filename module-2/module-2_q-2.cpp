@@ -1,4 +1,6 @@
-// MODULE - 2 QUES -2
+// MODULE: 2 (C Language - Fundamentals)
+
+// Write a program to find the simple Interest & Compound Interest.
 
 #include<stdio.h>
 #include<math.h>
@@ -17,7 +19,7 @@ int main()
 	printf("enter no. of time interest is compounded for compound interest: ");
 	scanf("%f",&n);
     
-    si = (p * t * r)/100;
+        si = (p * t * r)/100;
 	ci = p * pow((1 + (r / (n * 100))), (n * t));
 	
 	printf("simple interest is: %f",si);
