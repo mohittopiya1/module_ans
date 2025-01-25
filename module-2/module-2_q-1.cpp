@@ -1,4 +1,7 @@
-// MODULE - 2 QUES - 1
+// MODULE: 2 (C Language - Fundamentals)
+
+// Write a program to make a square and cube of number.
+
 
 #include<stdio.h>
 
