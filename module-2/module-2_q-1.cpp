@@ -8,7 +8,6 @@
 int main()
 
 {
-
 	int n,sq,cb;
 	
 	printf("enter the number:");
