@@ -24,4 +24,5 @@ int main()
 	
 	printf("simple interest is: %f",si);
 	printf("\ncompound interest is: %f",ci);
+	return 0;
 }
